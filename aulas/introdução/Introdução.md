@@ -1,5 +1,6 @@
 # Introdução à lógica de programação
 
+<<<<<<< HEAD
 ## O que é lógica?
 
 No dia-a-dia é comum utilizarmos a expressão **"é lógico"** quando nos deparamos
@@ -92,4 +93,6 @@ __enumerar as ações a serem seguidas para se chegar ao objetivo__.
 
 ___
 
+
 ###### desculpa pelo texto. É um pouco grande mas ler é bom, cara. Confia em mim... 
+
