@@ -1,7 +1,5 @@
 # Introdução à lógica de programação
 
-## O que é lógica?
-
 No dia-a-dia é comum utilizarmos a expressão **"é lógico"** quando nos deparamos
 com algo óbvio, algo que é claro.  No entanto, a palavra lógica pode ter um outro
 significado. Se recorrermos ao dicionário teremos os seguintes significados
