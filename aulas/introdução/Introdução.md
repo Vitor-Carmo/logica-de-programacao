@@ -3,7 +3,7 @@
 No dia-a-dia é comum utilizarmos a expressão **"é lógico"** quando nos deparamos
 com algo óbvio, algo que é claro.  No entanto, a palavra lógica pode ter um outro
 significado. Se recorrermos ao dicionário teremos os seguintes significados
-(*dicionário Michaelis*):  
+(*dicionário Michaelis*):   
 
 > *__1__. Modo de raciocinar tal como de fato se exerce: Lógica natural.*  
 > *__2__. Estudo que tem por objeto determinar quais as operações que são válidas e quais as que não o são: Lógica formal, que trata dos conceitos, juízos e raciocínios, independentemente de seu conteúdo.*  
@@ -90,4 +90,4 @@ __enumerar as ações a serem seguidas para se chegar ao objetivo__.
 
 ___
 
-###### desculpa pelo texto. É um pouco grande mas ler é bom, cara. Confia em mim... 
+###### desculpa pelo texto. É um pouco grande mas ler é bom, cara. Confia em mim....
