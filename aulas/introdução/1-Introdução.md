@@ -1,8 +1,5 @@
 # Introdução à lógica de programação
 
-<<<<<<< HEAD
-## O que é lógica?
-
 No dia-a-dia é comum utilizarmos a expressão **"é lógico"** quando nos deparamos
 com algo óbvio, algo que é claro.  No entanto, a palavra lógica pode ter um outro
 significado. Se recorrermos ao dicionário teremos os seguintes significados
@@ -89,10 +86,25 @@ fim
 Caso os passos sejam __invertidos__, por exemplo, se eu primeiro tentar atravessar a rua e depois olhar para direita, O meu objetivo não vai ser atingido com sucesso _(A única coisa que provavelmente será atingida será você)_.  
 
 Então, quando se trata de um algoritmo computacional, nós devemos __identificar o problema__ _(objetivo)_, __descobrir as informações__ e
-__enumerar as ações a serem seguidas para se chegar ao objetivo__.
+__enumerar as ações a serem seguidas para se chegar ao objetivo__.  
+
+## Exemplo de algoritmo computacional em pseudo código  
+
+_criar um algoritmo que faça a leitura de dois valores e apresente o produto dos mesmos_
+
+__Informações__: Os dois números tem que ser multiplicados.  
+
+__Ações__: Efetuar a multiplicação e apresentar o resultado.  
+
+O algoritmo ficaria assim:  
+
+```
+1 - Leia o primeiro valor (valor1)
+2 - Leia o segundo valor (valor2)
+3 - Efetuar o produto (resultado <- valor1 * valor2)
+4 - Apresentar a soma (resultado)
+```
 
 ___
-
-
 ###### desculpa pelo texto. É um pouco grande mas ler é bom, cara. Confia em mim... 
 

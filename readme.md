@@ -5,8 +5,8 @@ Esse repositório é feito para ajudar estudantes que estão iniciando em progra
 ## Sumário
 
 * Introdução
-    * [O que é lógica e algoritmo](aulas/introdução/Introdução.md)?
-
+    * [O que é lógica e algoritmo ?](aulas/introdução/1-Introdução.md)
+    * [Variáveis](aulas/introdução/2-Variáveis.md)
 ___
 
 
