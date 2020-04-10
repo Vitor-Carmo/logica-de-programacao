@@ -1,48 +1,71 @@
 # Portugol Estruturado
-  A estruturação do codigo e uma parte importante da programação, afinal de contas o seu codigo vai rodar em modo cascata, ou melhor dizendo, ele vai roda linha por linha.
-Sobre a estruturação de codigo, ele pode ser  feito  em qualquer liguagem de programação: _java_, _linguagem C_ entre outros, porém em cada  liguagem
-existe uma coisa chamada _"PALAVRAS RESERVADAS"_ (Seria como se cada liguagem de programação tivesse o seu próprio dicionário).
-Alem de  cada liguagem ter suas propias palavras chaves, a liguagem de programção do mercado são todas em Inglês, com isso torna-se a programação
-para aquele que não sabe Inglês um  pouco mais dificil. Com base nesse problema foi criado pseudocódigo conhecido como Português Estruturado ou Portugol, que se trata
-de uma linguagem fictícia criada para estruturar um programa da mesma forma que em uma linguagem de programação, porém utilizando o nosso idioma pátrio</br>
+A estruturação do código é uma parte importante da programação, afinal de contas o seu código vai rodar em __modo cascata__, ou melhor dizendo, ele vai roda __linha por linha__.
 
-O portugol como qualquer outra liguagem possui sua lista de palavras reservadas, que indicam que uma ação está sendo executada.</p>
-//Nota as palavras chaves deve ser escrita corretamente para elas fncionarem direito.</p>
+Sobre a estruturação de código, ele pode ser  feito  em qualquer linguagem de programação: _Java_, _linguagem C_ entre outras. Porém em cada  linguagem
+existe uma coisa chamada __PALAVRAS RESERVADAS__ _(Seria como se cada linguagem de programação tivesse o seu próprio dicionário)_.
 
-##  palavras reservadas do portugol: 
-1. A palavra chave _"programa"_ indica o nome que foi dado ao mesmo.
-2. A palavra chave _"var"_ indica que nessa área serão declaradas as variáveis a serem
+Além de cada linguagem ter suas próprias __palavras-chaves__, a linguagem de programação do mercado são todas em __Inglês__, com isso torna-se a programação
+para aquele que não sabe Inglês um  pouco mais difícil. Com base nesse problema foi criado __pseudocódigo__ conhecido como __Português Estruturado ou Portugol__, que se trata
+de uma linguagem fictícia criada para estruturar um programa da mesma forma que em uma linguagem de programação, porém __utilizando o nosso idioma nativo__.
+
+O portugol como qualquer outra linguagem possui sua lista de palavras reservadas, que indicam que ação está sendo executada.
+
+>_Nota:  as palavras-chaves deve ser escrita corretamente para elas funcionarem direito._
+
+##  palavras reservadas do portugol:
+
+1. A palavra-chave `programa`, indica o __nome que foi dado ao mesmo__.  
+
+1. A palavra-chave `var`, indica que nessa área serão declaradas as __variáveis__ a serem
 utilizadas pelo programa.
-3. A palavra chave _"início"_ marca o início do bloco de programação.
-4. A palavra chave "_leia"_ indica que o dado foi lido.
-5. A expressão _"c← a + b"_ indica que um processamento, um cálculo ocorreu e foi
-guardado na variável c.
-6. A palavra chave _"escreva"_ indica que um dado foi apresentado na tela.
-7. A palavra chave _"fim"_ indica que o bloco de programação se encerrou.</p></p>
+
+1. A palavra-chave `inicio`, marca o __início do bloco__ de programação.
+
+1. A palavra-chave `leia`, indica que o __dado foi lido__.
+
+1. A expressão `c ← a + b`, indica que um __processamento__, um __cálculo__ ocorreu e foi
+__guardado__ na variável `c`.
+
+1. A palavra-chave `escreva`, indica que um dado foi __apresentado na tela__.
+
+1. A palavra-chave `fim`, indica que o bloco de programação se __encerrou__.
 
 
 
-### Exemplo:</p>
-Criar o código em Português estruturado que realize a soma de dois numeros.</p>
-programa SOMAR</p>
-var c, a, b: real              // nota: "real" é o tipo de dado primitivo da vriavel.</p>
-inicio</p>
-leia(a)</p>
-leia(b)</p>
-c ← a + b</p>
-escreva (c)</p>
-fim</p>
+### Exemplo:
 
-Como citado anteriomente nesse exemplo o programa rodou o codigo linha por linha, por conta disso ele será executado com maestria, etretanto se a estrutura for feita de qualquer modo o programa emitira um erro.</p>
+_Criar o código em Português estruturado que realize a soma de dois numeros_.
 
-### Exemplo Errado :</p>
-Criar o código em Português estruturado que realize a soma de dois numeros.</p>
-programa SOMAR</p>
-c ← a + b</p>
-var c, a, b: real </p>            
-escreva (c)</p>
-leia(b)</p>
-fim</p>
-leia(a)</p>
-inicio</p>
-*Esse programa emitira um erro.
+```
+programa SOMAR
+
+var c, a, b: real  
+
+inicio
+  leia(a)
+  leia(b)
+  c ← a + b
+  escreva (c)
+fim
+```
+
+Como citado anteriomente nesse exemplo o programa rodou o código linha por linha, por conta disso ele será executado com maestria, etretanto se a estrutura for feita de qualquer modo o programa emitirá um erro.
+
+### Exemplo Errado :
+_Criar o código em Português estruturado que realize a soma de dois numeros_.
+
+```
+programa SOMAR
+c ← a + b
+
+var c, a, b: real             
+
+escreva (c)
+leia(b)
+fim
+leia(a)
+
+inicio
+```
+
+_Esse programa emitira um erro_.
