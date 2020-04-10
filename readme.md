@@ -10,4 +10,10 @@ Esse repositório é feito para ajudar estudantes que estão iniciando em progra
     * [Variáveis](aulas/introdução/2-Variáveis.md)
 
     * [Operadores Aritméticos](aulas/introdução/3-Operadores_Aritméticos.md)
+
+* Portugol e Java
+    * [Portugol](aulas/Portugol_Java/1-Portugol.md)
+
+    * [Java](aulas/Portugol_Java/2-Java.md)
+
 ___
