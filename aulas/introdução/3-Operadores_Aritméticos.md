@@ -24,5 +24,4 @@ realizar __cálculos__ de expressões. Os principais operadores aritméticos, __
 
 `r <- 5*2 (R será = 10)`
 
-
 ___
