@@ -16,6 +16,12 @@ Esse repositório é feito para ajudar estudantes que estão iniciando em progra
 
     * [Java](aulas/2-Portugol_Java/2-Java.md)
 
+* ### Tomada de decisão
+    * [Tomada de Desição](aulas/3-Tomada_Decisão/1-tomada_desição.md)
+    
+    * [Operadores Lógicos](aulas/3-Tomada_Decisão/2-operadores-lógicos.md)
+    
+    * [Tipos de Tomada de Decisão](aulas/3-Tomada_Decisão/3-tipos_tomada_decisão.md)
 
 ## Exercícios 
 
