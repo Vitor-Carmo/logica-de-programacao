@@ -21,7 +21,7 @@ Imprima a variável SOMA com todas as letras maiúsculas.
 |12<br>13    |SOMA = 25 |
 
 
-[ver resposta](algoritmos/lista[0]/SomaSimples.java)
+[ver resposta](../algoritmos/lista[0]/SomaSimples.java)
 
 
 ## Área do Círculo
@@ -44,7 +44,7 @@ Apresentar a mensagem _"A="_ seguido pelo valor da variável area, conforme exem
 |100.64      |A=31819.3103|
 |150.00      |A=70685.7750|
 
-[ver resposta](algoritmos/lista[0]/AreaDoCirculo.java)
+[ver resposta](../algoritmos/lista[0]/AreaDoCirculo.java)
 
 ## Imposto de Renda
 
@@ -70,7 +70,7 @@ Imprima o texto _"R$"_ seguido de um espaço e do valor total devido de Imposto 
 |1701.12     |Isento      |
 |4520.00     |R$ 355.60   |
 
-[ver resposta](algoritmos/lista[0]/ImpostoDeRenda.java)
+[ver resposta](../algoritmos/lista[0]/ImpostoDeRenda.java)
 
 ## Consumo
 
@@ -89,7 +89,7 @@ Apresente o valor que representa o consumo médio do automóvel com 3 casas apó
 |2254<br>124.4 |18.119 km/l |
 |4554<br>464.6 |9.802 km/l  |
 
-[ver resposta](algoritmos/lista[0]/Kilometragem.java)
+[ver resposta](../algoritmos/lista[0]/Kilometragem.java)
 
 ____
 
