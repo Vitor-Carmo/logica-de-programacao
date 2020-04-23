@@ -14,3 +14,4 @@ abaixo, a saber:
 |`!=`          |Diferente de    |
 
 ___
+<br><br>

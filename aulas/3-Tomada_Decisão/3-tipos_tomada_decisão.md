@@ -37,7 +37,7 @@ Existem _3 tipos_ de tomada de decisão:<br>
     Neste tipo de decisão uma condição será verificada. Caso a mesma seja
     __*verdadeira*__, um bloco de ações __será executado__. Caso seja __*falsa*__ um __outro bloco de ações é executado__.  
 
-    [Exemplo](1-tomada_desição.md###Java:)
+    [Exemplo](1-tomada_desição.md)
 
 
 * ### Tomada de Decisão Encadeada
@@ -80,4 +80,4 @@ Existem _3 tipos_ de tomada de decisão:<br>
     ```
 
 ___
-    
+<br><br>
