@@ -22,6 +22,8 @@ Esse repositório é feito para ajudar estudantes que estão iniciando em progra
     * [Operadores Lógicos](aulas/3-Tomada_Decisão/2-operadores-lógicos.md)
     
     * [Tipos de Tomada de Decisão](aulas/3-Tomada_Decisão/3-tipos_tomada_decisão.md)
+    
+    * [Operadores Lógicos](aulas/3-Tomada_Decisão/4-Operadores-lógicos.md)
 
 ## Exercícios 
 
