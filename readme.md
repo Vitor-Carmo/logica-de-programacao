@@ -25,6 +25,10 @@ Esse repositório é feito para ajudar estudantes que estão iniciando em progra
     
     * [Operadores Lógicos](aulas/3-Tomada_Decisão/4-Operadores-lógicos.md)
 
+* ### Laço de repetição
+    * [While](4-Laço_Repetição/1-laço_repetição.md#Laço-de-repetição-com-teste-no-início)
+    * [Do while]()
+    * [For]()
 ## Exercícios 
 
 __String__ Lista[&nbsp; ] = {  
