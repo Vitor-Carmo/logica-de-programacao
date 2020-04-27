@@ -34,6 +34,8 @@ Esse repositório é feito para ajudar estudantes que estão iniciando em progra
     
     * [For](aulas/4-Laço_Repetição/1-laço_repetição.md#laço-de-repetição-com-teste-no-fim-for)
 
+* ### Vetores
+    * [Vetor](aulas/5-Vetores/1-vetores.md)
 
 ## Exercícios 
 
