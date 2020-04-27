@@ -26,8 +26,12 @@ Esse repositório é feito para ajudar estudantes que estão iniciando em progra
     * [Operadores Lógicos](aulas/3-Tomada_Decisão/4-Operadores-lógicos.md)
 
 * ### Laço de repetição
+    * [Laço de repetição](aulas/4-Laço_Repetição/1-laço_repetição.md#laços-de-repetição)
+
     * [While](/aulas/4-Laço_Repetição/1-laço_repetição.md#laço-de-repetição-com-teste-no-início-while)
+
     * [Do while](aulas/4-Laço_Repetição/1-laço_repetição.md#laço-de-repetição-com-teste-no-fim-do)
+    
     * [For](aulas/4-Laço_Repetição/1-laço_repetição.md#laço-de-repetição-com-teste-no-fim-for)
 
 
