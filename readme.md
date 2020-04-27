@@ -28,9 +28,9 @@ Esse repositório é feito para ajudar estudantes que estão iniciando em progra
 * ### Laço de repetição
     * [While](/aulas/4-Laço_Repetição/1-laço_repetição.md#laço-de-repetição-com-teste-no-início-while)
     * [Do while](aulas/4-Laço_Repetição/1-laço_repetição.md#laço-de-repetição-com-teste-no-fim-do)
-    * [For](aulas/4-Laço_Repetição/1-laço_repetição.md#laço-de-repetição-com-teste-no-fim-do)
+    * [For](aulas/4-Laço_Repetição/1-laço_repetição.md#laço-de-repetição-com-teste-no-fim-for)
 
-    
+
 ## Exercícios 
 
 __String__ Lista[&nbsp; ] = {  
